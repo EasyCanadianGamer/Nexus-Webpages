@@ -1,0 +1,43 @@
+
+div{
+  background-color:white;
+}
+
+
+#open-nexus{
+background: #000;
+color:white;
+
+}
+
+#headertxt{
+color: rgb(0, 0, 0);
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 50px;
+text-align: center;
+}
+#left{
+color: rgb(0, 0, 0);
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 40px;
+text-align: left;
+}
+
+#right{
+color: rgb(0, 0, 0);
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 40px;
+text-align: right;
+}
+
+#nav{
+color:black;
+font-size: 20px;
+}
+
+#footer{
+color:#000;
+font-size: 20px;
+text-align: center;
+padding: 5px;
+}
